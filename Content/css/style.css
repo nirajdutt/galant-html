@@ -3623,7 +3623,7 @@ blockquote footer {
 		padding: 20px;
 		text-align: center;
 		color: #fff;
-		background: url(Content/images/frame_back.png) repeat-x;
+		background: url(../images/frame_back.png) repeat-x;
 	}
 	.bordered_zoom_three .box_content {
 		opacity: 0;
